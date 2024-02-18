@@ -3,52 +3,52 @@
 
 <h3>Things I code with 👨🏾‍💻</h3>
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=black" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
 </p>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=black" />
 </p>
 <p>
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </p>
 
 <h3>Things I test with 🧪</h3>
 <p>
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white" />
-  <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white" />
+  <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-E33332?style=flat&logo=testinglibrary&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
 </p>
 
 <h3>Things I build & deploy with 👷🏼‍♂️</h3>
 <p>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> 
-  <img alt="babel" src="https://img.shields.io/badge/-babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" /> 
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" /> 
+  <img alt="babel" src="https://img.shields.io/badge/-babel-F9DC3E?style=flat&logo=babel&logoColor=black" /> 
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 </p>
 
 <h3>Things I monitor with 🔬</h3>
 <p>
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=black" /> 
-  <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" /> 
-  <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
-  <img alt="New Relic" src="https://img.shields.io/badge/-New Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=black" /> 
+  <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white" /> 
+  <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat&logo=kibana&logoColor=white" />
+  <img alt="New Relic" src="https://img.shields.io/badge/-New Relic-1CE783?style=flat&logo=newrelic&logoColor=black" />
 </p>
 
 <h2>My latest posts</h3>
@@ -60,6 +60,7 @@
 </ul>
 
 <h2 align="left">:heart: Let's get connected:</h2>
-  <p><a href="https://www.linkedin.com/in/smartagwu"><img alt="linkedin" src="https://img.shields.io/badge/-smartagwu-0A66C2?style=social&logo=linkedin" /> </a></p>
-  <p><a href="https://twitter.com/smart_jsx"><img alt="twitter" src="https://img.shields.io/badge/-smart_jsx-000000?style=social&logo=x" /> </a></p>
-  <p><a href="https://www.instagram.com/agwu_smart"><img alt="twitter" src="https://img.shields.io/badge/-agwu_smart-E4405F?style=social&logo=instagram" /> </a></p>
+<p><a href="https://www.linkedin.com/in/smartagwu"><img alt="linkedin" src="https://img.shields.io/badge/-smartagwu-0A66C2?style=social&logo=linkedin" /> </a></p>
+<p><a href="https://twitter.com/smart_jsx"><img alt="twitter" src="https://img.shields.io/badge/-smart_jsx-000000?style=social&logo=x" /> </a></p>
+<p><a href="https://www.instagram.com/agwu_smart"><img alt="twitter" src="https://img.shields.io/badge/-agwu_smart-E4405F?style=social&logo=instagram" /> </a></p>
+<p><a href="https://medium.com/@smartagwu"><img alt="medium" src="https://img.shields.io/badge/-smartagwu-000000?style=social&logo=medium" /> </a></p>
