@@ -63,4 +63,4 @@
 <p><a href="https://www.linkedin.com/in/smartagwu"><img alt="linkedin" src="https://img.shields.io/badge/-smartagwu-0A66C2?style=social&logo=linkedin" /> </a></p>
 <p><a href="https://twitter.com/smart_jsx"><img alt="twitter" src="https://img.shields.io/badge/-smart_jsx-000000?style=social&logo=x" /> </a></p>
 <p><a href="https://www.instagram.com/agwu_smart"><img alt="twitter" src="https://img.shields.io/badge/-agwu_smart-E4405F?style=social&logo=instagram" /> </a></p>
-<p><a href="https://medium.com/@smartagwu"><img alt="medium" src="https://img.shields.io/badge/-smartagwu-000000?style=social&logo=medium" /> </a></p>
+<p><a href="https://smartagwu.medium.com/"><img alt="medium" src="https://img.shields.io/badge/-smartagwu-000000?style=social&logo=medium" /> </a></p>
